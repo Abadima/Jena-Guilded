@@ -1,0 +1,24 @@
+{
+  "name": "jena-guilded",
+  "version": "0.0.1",
+  "description": "Jena, but for Guilded",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"there is no test lol\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abadima/Jena-Guilded.git"
+  },
+  "author": "Abadima",
+  "license": "APACHE 2.0",
+  "bugs": {
+    "url": "https://github.com/Abadima/Jena-Guilded/issues"
+  },
+  "homepage": "https://github.com/Abadima/Jena-Guilded#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.0",
+    "ws": "^8.6.0"
+  }
+}
